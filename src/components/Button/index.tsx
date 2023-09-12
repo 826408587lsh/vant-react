@@ -10,6 +10,8 @@ import './index.scss';
 
 const baseClass = 'vant-button';
 
+const aks = 0;
+
 export default function Button({
   text,
   children,
